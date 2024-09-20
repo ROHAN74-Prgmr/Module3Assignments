@@ -1,0 +1,13 @@
+Module – 3: Node - Web Development with Node
+
+
+Q1. What is Express.js?
+
+-Express.js is a node js framework used for building server-side applications and APIs due to its simplicity and flexibility.
+-It allows you to use middleware functions to handle requests, responses, and error handling, in this way it adds functionality to your application .
+-It has a good routing system to  handle HTTP requests like GET, POST, etc. for different endpoints.
+-Express supports asynchronous programming, making it easy to work with promises and async/await.
+- It's designed to be fast and lightweight using which RESTful APIs and single-page applications can be created easily.
+- Express supports various template engines like EJS and Handlebars to render dynamic HTML pages.
+-It can serve static files like images, CSS, and JavaScript easily.
+-It can be easily integrated with various databases like MongoDB, MySQL, PostgreSQL using libraries such as Mongoose.
